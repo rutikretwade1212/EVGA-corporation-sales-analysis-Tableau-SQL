@@ -63,7 +63,7 @@ This project involves analyzing sales data stored in a relational database. The 
 and transactions.market_code="Mark001";`
 
 
-Add a link to your Tableau Public profile or embed the dashboard directly.
+
 
 Insights and Findings
 Chennai Market Analysis
