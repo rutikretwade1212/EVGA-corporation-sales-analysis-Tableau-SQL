@@ -1,4 +1,4 @@
-# Sales Insights Data Analysis Project
+# Sales Insights Data Analysis Project for EVGA Corporation
 
 Welcome to the **Sales Insights Data Analysis Project**! This repository demonstrates data analysis using **MySQL** and **Tableau** to gain actionable insights from sales data. The project showcases how to use SQL for querying datasets and Tableau for visualizing the results.
 
