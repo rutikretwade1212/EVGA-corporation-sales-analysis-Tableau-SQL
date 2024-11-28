@@ -17,22 +17,12 @@ This project involves analyzing sales data stored in a relational database. The 
 
 2. **Interactive Tableau Dashboard**  
    Gain insights through a visually appealing and user-friendly dashboard.  
-   *[Add a link or screenshot of your Tableau dashboard]*
+   **
 
 3. **Data-Driven Decision Making**  
    Utilize insights to improve market strategies and customer engagement.
 
 ---
-
-## Installation and Setup Instructions
-
-### 1. Setting up MySQL on your Local Computer
-
-- Follow [this tutorial video](https://www.youtube.com/watch?v=WuBcTJnIuzo) to install MySQL.
-- Once MySQL is installed, download the `db_dump.sql` file from this repository.
-- Import the database dump into MySQL using the following command:
-  ```bash
-  mysql -u <username> -p < db_dump.sql
 
 
 
