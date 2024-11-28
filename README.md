@@ -62,32 +62,72 @@ This project involves analyzing sales data stored in a relational database. The 
     `SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020
 and transactions.market_code="Mark001";`
 
+## Customer Base
 
-
-
-##Insights and Findings
-1)Chennai Market Analysis
-
-2)Identified key products contributing to sales.
-Highlighted significant revenue generation in specific time periods.
-Revenue Trends
-
-3)The year 2020 showed peak revenue during January.
-USD transactions contributed a substantial share of sales.
-
-
-Customer Base
-
-Total customers in the dataset and their transactions were analyzed to understand patterns and behaviors.
-How to Explore the Dashboard
-Download Tableau Public or open the embedded dashboard link.
-Navigate through the interactive visualizations.
-Use filters and controls to explore specific insights.
-Conclusion
-This project demonstrates the power of SQL and Tableau for data-driven decision-making. By combining analytical queries with interactive dashboards, businesses can gain a deeper understanding of their sales performance and customer trends.
+-Total customers in the dataset and their transactions were analyzed to understand patterns and behaviors.
+-How to Explore the Dashboard
+-Download Tableau Public or open the embedded dashboard link.
+-Navigate through the interactive visualizations.
+-Use filters and controls to explore specific insights.
+## Conclusion
+-This project demonstrates the power of SQL and Tableau for data-driven decision-making. By combining analytical queries with interactive dashboards, businesses can gain a deeper understanding ---of their sales performance and customer trends.
 
 
 <img src="Sales dashboard.png" alt="Tableau Dashboard Preview" width="800"/>
+
+# Sales Insights Dashboard
+
+This project provides a detailed analysis of sales data, showcasing revenue trends, sales quantity distribution, customer insights, and product performance. The analysis was conducted using SQL and visualized in Tableau. Below are the key highlights from the Tableau dashboard.
+
+## Key Highlights from the Dashboard
+
+### Total Revenue and Sales Quantity
+- **Total Revenue**: 984.87M
+- **Total Sales Quantity**: 2.43M
+
+---
+
+### Revenue Trends
+- **Revenue by Year**: Highlights revenue progression from January to December, with normalized amounts for better visualization.
+- Notable months like **October** (93M) and **November** (80.5M) show significant revenue spikes.
+
+---
+
+### Revenue by Markets
+- **Top Market**: Delhi NCR (519.57M).
+- Other major contributors include:
+  - Mumbai (150.08M)
+  - Ahmedabad (132.31M)
+
+---
+
+### Sales Quantity by Markets
+- **Delhi NCR** leads with **0.99M units sold**, followed by:
+  - Mumbai (0.38M)
+  - Nagpur and Kochi (0.26M each)
+
+---
+
+### Top 5 Customers by Revenue
+- **Electricalsara Stores** is the highest revenue generator (**413.33M**), far ahead of:
+  - Electricalystical (49.64M)
+  - Excel Stores (49.12M)
+
+---
+
+### Top 5 Products by Revenue
+- The highest-revenue product is **Prod040** (23.58M), followed by:
+  - Prod159 (17.66M)
+  - Prod065 (16.26M)
+
+---
+
+### Revenue by Zone
+- The **North Zone** dominates with **675.6M**, followed by:
+  - Central (263.7M)
+  - South (45.6M)
+
+---
 
 
 
