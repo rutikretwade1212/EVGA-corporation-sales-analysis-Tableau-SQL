@@ -65,15 +65,17 @@ and transactions.market_code="Mark001";`
 
 
 
-Insights and Findings
-Chennai Market Analysis
+##Insights and Findings
+1)Chennai Market Analysis
 
-Identified key products contributing to sales.
+2)Identified key products contributing to sales.
 Highlighted significant revenue generation in specific time periods.
 Revenue Trends
 
-The year 2020 showed peak revenue during January.
+3)The year 2020 showed peak revenue during January.
 USD transactions contributed a substantial share of sales.
+
+
 Customer Base
 
 Total customers in the dataset and their transactions were analyzed to understand patterns and behaviors.
