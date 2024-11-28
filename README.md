@@ -87,6 +87,7 @@ Conclusion
 This project demonstrates the power of SQL and Tableau for data-driven decision-making. By combining analytical queries with interactive dashboards, businesses can gain a deeper understanding of their sales performance and customer trends.
 
 
+<img src="Sales dashboard.png" alt="Tableau Dashboard Preview" width="800"/>
 
 
 
